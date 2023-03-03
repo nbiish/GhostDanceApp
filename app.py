@@ -6,8 +6,29 @@ st.header("Ghost Dance - A continued prophecy")
 # Add text underneath the link
 st.write("This is the patent that the math is based on.")
 
+
 # Add a link
 st.markdown("https://patents.google.com/patent/US20060014125A1/en")
+
+st.write("""* Purpose of the training system is to increase human energy substantially 
+* Result of training will enable capabilities such as:
+    * Walking through walls
+    * Body levitation
+    * Instantaneous healing of infections
+    * Full-body teleportation to another location
+    * Remote viewing at vast distances in terms of light-years
+    * Looking into hyperspace co-dimensions
+    
+* Invention based on the relationship between water molecule and boundary between space and hyperspace
+* Mass of water molecule = energy of water molecule at Planck boundary
+* Body composed of 67% water and sits on the boundary
+* Additional increase in energy would move body out of dimension into "hyperspace"
+* Human beings are hyperspace energy beings living in physical bodies
+* Additional energy required to move body out of dimension comes from increasing energy of hyperspace being
+* One source of this energy comes from walking cross-handed at proper velocity to generate a large hyperspace energy vortex
+* This increased hyperspace energy enables person to walk around out of dimension through solid wooden doors
+* Door and person are in two slightly different dimensions at the same moment
+* Person appears to be walking through door""")
 
 
 # Create a sidebar with a slider to choose between pounds and kilograms
